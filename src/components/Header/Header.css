@@ -1,0 +1,28 @@
+.header-container {
+    text-align: center;
+}
+
+.header-container img {
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.header-container nav {
+    background-color: black;
+    line-height: 30px;
+    padding: 5px;
+   
+}
+.header-container a {
+   font-size: 25px;
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+     
+}
+
+.header-container a:hover {
+    background-color: blueviolet;
+    border-radius: 3px;
+     
+}
