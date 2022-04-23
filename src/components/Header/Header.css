@@ -9,15 +9,16 @@
 
 .header-container nav {
     background-color: black;
-    line-height: 30px;
-    padding: 5px;
+    line-height: 40px;
+     
    
 }
 .header-container a {
-   font-size: 25px;
+   font-size: 20px;
     color: white;
     text-decoration: none;
     margin: 20px;
+    padding: 5px;
      
 }
 

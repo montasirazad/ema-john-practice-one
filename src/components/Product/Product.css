@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+     border-bottom: 1px solid seagreen;
+     margin-right: 10px;
+    padding: 20px;
+}
+
+.product img {
+    margin-right: 15px;
+}
+
+.product h3 {
+    color: blueviolet;
+}
+
+.add-btn{
+    width: 200px;
+    height: 25px;
+    background-color: goldenrod;
+    border:1px solid slateblue;
+    border-radius: 3px;
+
+}
+
+.add-btn:hover{
+    cursor: pointer;
+    background-color:blueviolet;
+    color: white;
+
+}
